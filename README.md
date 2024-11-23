@@ -26,4 +26,10 @@ This project aims to analyze data from the E-Commerce Public Dataset, with the u
    ```
 
 ## Usage
+1. Navigate to the project directory locally:
+   ```shell
+   cd Analisis-Data-Dashboard/dashboard/
+   streamlit run main.py
+   ```
+or
 Visit this link : [Data Analytics Project](https://dashboard-ecommerce-brazil.streamlit.app/)
